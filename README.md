@@ -41,9 +41,9 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name: Koti Sai Sankar
+### Name: Mahesh Raj Purohit
 
-### Register Number:212222240111
+### Register Number:212222240058
 
 ```python
 
